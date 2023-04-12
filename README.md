@@ -1,3 +1,5 @@
+Petits outils m'aidant à gérer mon travail photo.
+
 # p-sort.sh
 
 Créé deux dossiers row et jpg et déplace toutes les photos row (dans mon cas .RAF) dans le dossier row et toutes les photos .JPG dans le dossier jpg.
